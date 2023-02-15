@@ -10,7 +10,7 @@ namespace Git
             string first_name = Console.ReadLine();
             System.Console.WriteLine("Now enter your last name: ");
             string last_name = Console.ReadLine();
-            System.Console.WriteLine($"Hello {first_name} {last_name}! ");
+            System.Console.WriteLine($"Hello {first_name} {last_name}!  ");
         }
     }
 }
